@@ -30,7 +30,7 @@
         }
     },
     "configurationArguments": {
-      "applicationExtensionKey": "03fc2e9d-4f03-474f-bfaa-d465555d5aad",
+      "applicationExtensionKey": "0b058430-4b27-43b2-b50f-1e4aedc25ec1",
        "save": {
            "url": "https://sfmc-stripo.herokuapp.com/save",
             "verb": "POST",
